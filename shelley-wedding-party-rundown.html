@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🎉 Shelley & 康太 婚禮二次會 Run Down</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+            color: #333;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+        header {
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+        header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+        header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+        .content {
+            padding: 30px;
+        }
+        section {
+            margin-bottom: 40px;
+        }
+        h2 {
+            color: #764ba2;
+            border-bottom: 3px solid #f093fb;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+            font-size: 1.5em;
+        }
+        h3 {
+            color: #667eea;
+            margin: 20px 0 10px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 15px 0;
+        }
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid #eee;
+        }
+        th {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            font-weight: 600;
+        }
+        tr:hover {
+            background: #f8f9ff;
+        }
+        .info-table th {
+            width: 30%;
+        }
+        .highlight {
+            background: #fff3cd;
+            font-weight: bold;
+        }
+        .task-list {
+            list-style: none;
+        }
+        .task-list li {
+            padding: 10px 15px;
+            margin: 8px 0;
+            background: #f8f9fa;
+            border-radius: 8px;
+            border-left: 4px solid #667eea;
+        }
+        .task-list li.done {
+            border-left-color: #28a745;
+            background: #d4edda;
+        }
+        .task-list li::before {
+            content: "☐ ";
+            color: #667eea;
+        }
+        .task-list li.done::before {
+            content: "☑ ";
+            color: #28a745;
+        }
+        .red { border-left-color: #dc3545; }
+        .yellow { border-left-color: #ffc107; }
+        .green { border-left-color: #28a745; }
+        
+        .anime-group {
+            background: linear-gradient(135deg, #f8f9ff 0%, #fff 100%);
+            border-radius: 15px;
+            padding: 20px;
+            margin: 20px 0;
+            border: 2px solid #eee;
+        }
+        .anime-group h3 {
+            margin-top: 0;
+            color: #f5576c;
+        }
+        .anime-group table {
+            margin: 10px 0 0;
+        }
+        
+        .game-box {
+            background: #fff8e1;
+            border-radius: 15px;
+            padding: 25px;
+            margin: 20px 0;
+            border: 2px solid #ffca28;
+        }
+        .game-box h3 {
+            color: #f57c00;
+            margin-top: 0;
+        }
+        .game-box .music {
+            background: #ffe082;
+            padding: 10px 15px;
+            border-radius: 8px;
+            margin: 10px 0;
+            font-weight: bold;
+        }
+        .chant {
+            background: #fff;
+            padding: 15px;
+            border-radius: 10px;
+            font-size: 1.3em;
+            text-align: center;
+            font-weight: bold;
+            color: #f5576c;
+            margin: 15px 0;
+            border: 2px dashed #f5576c;
+        }
+        .gesture-table td:first-child {
+            font-size: 1.5em;
+            text-align: center;
+            width: 60px;
+        }
+        .rules {
+            background: #e3f2fd;
+            padding: 15px;
+            border-radius: 10px;
+            margin: 15px 0;
+        }
+        .rules ul {
+            margin-left: 20px;
+        }
+        .rules li {
+            margin: 8px 0;
+        }
+        
+        .note-box {
+            background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%);
+            padding: 20px;
+            border-radius: 15px;
+            margin: 20px 0;
+        }
+        .note-box h3 {
+            color: #e65100;
+            margin-top: 0;
+        }
+        .note-box ul {
+            margin-left: 20px;
+        }
+        .note-box li {
+            margin: 8px 0;
+        }
+        .beer {
+            font-size: 1.5em;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #f8f9fa;
+            color: #666;
+            font-size: 0.9em;
+        }
+        
+        @media print {
+            body {
+                background: white;
+                padding: 0;
+            }
+            .container {
+                box-shadow: none;
+            }
+            header {
+                background: #f5576c !important;
+                -webkit-print-color-adjust: exact;
+                print-color-adjust: exact;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎉 Shelley & 康太</h1>
+            <p>婚禮二次會 Run Down</p>
+        </header>
+        
+        <div class="content">
+            <!-- 活動資訊 -->
+            <section>
+                <h2>📋 活動資訊</h2>
+                <table class="info-table">
+                    <tr><th>活動</th><td>Shelley & 康太 婚禮二次會</td></tr>
+                    <tr><th>地點</th><td>西門錢櫃</td></tr>
+                    <tr><th>時間</th><td>17:00 包廂開始，17:30 活動開始</td></tr>
+                    <tr><th>人數</th><td>30-40 位（可能有臨時加入）</td></tr>
+                    <tr><th>分組</th><td>5 組，每組 6-10 人</td></tr>
+                    <tr><th>主持人</th><td>Ian</td></tr>
+                </table>
+            </section>
+            
+            <!-- Run Down -->
+            <section>
+                <h2>🎤 Run Down（流程表）</h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>時間</th>
+                            <th>環節</th>
+                            <th>負責人</th>
+                            <th>備註</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>17:00</td><td>包廂開放入場</td><td>-</td><td>賓客陸續到場</td></tr>
+                        <tr><td>17:30</td><td>活動開始</td><td>主持人（Ian）</td><td>等人到齊</td></tr>
+                        <tr class="highlight"><td>17:35</td><td><strong>開場：康太驚喜歌曲</strong></td><td>康太</td><td>當天才告知曲目</td></tr>
+                        <tr class="highlight"><td>17:45</td><td><strong>新人合唱：永不失聯的愛</strong></td><td>康太 + Shelley</td><td>男/女/男女合唱</td></tr>
+                        <tr><td>18:00</td><td><strong>分組抽籤</strong></td><td>主持人</td><td>動漫角色配對</td></tr>
+                        <tr><td>18:15</td><td><strong>破冰遊戲</strong></td><td>主持人 + 羅比(?)</td><td>組內互相認識</td></tr>
+                        <tr><td>18:30</td><td><strong>分組歌唱競賽</strong></td><td>各組</td><td>各組推派代表演唱，同組伴舞</td></tr>
+                        <tr><td>19:00</td><td><strong>教日本人玩遊戲</strong></td><td>主持人</td><td>夜遊上海、變態拳</td></tr>
+                        <tr><td>19:30</td><td><strong>喝酒遊戲 2</strong></td><td>全體</td><td>隨機應變</td></tr>
+                        <tr><td>20:00+</td><td>自由歡唱</td><td>全體</td><td>-</td></tr>
+                    </tbody>
+                </table>
+            </section>
+            
+            
+            <!-- 分組抽籤 -->
+            <section>
+                <h2>🎯 分組抽籤：經典動漫角色</h2>
+                <p><strong>規則</strong>：男生抽男角色、女生抽女角色，找到同一部動漫的人就是同一組！</p>
+                
+                <div class="anime-group">
+                    <h3>第 1 組：寶可夢（Pokémon）</h3>
+                    <table>
+                        <tr><th>男角色</th><th>女角色</th></tr>
+                        <tr><td>小智</td><td>小霞</td></tr>
+                        <tr><td>小剛</td><td>小遙</td></tr>
+                        <tr><td>大木博士</td><td>小光</td></tr>
+                        <tr><td>火箭隊小次郎</td><td>火箭隊武藏</td></tr>
+                    </table>
+                </div>
+                
+                <div class="anime-group">
+                    <h3>第 2 組：七龍珠（Dragon Ball）</h3>
+                    <table>
+                        <tr><th>男角色</th><th>女角色</th></tr>
+                        <tr><td>孫悟空</td><td>乙琪</td></tr>
+                        <tr><td>悟飯</td><td>乙瑪</td></tr>
+                        <tr><td>乙達爾</td><td>布瑪</td></tr>
+                        <tr><td>乙克林</td><td>乙18號</td></tr>
+                    </table>
+                </div>
+                
+                <div class="anime-group">
+                    <h3>第 3 組：灌籃高手（SLAM DUNK）</h3>
+                    <table>
+                        <tr><th>男角色</th><th>女角色</th></tr>
+                        <tr><td>櫻木花道</td><td>赤木晴子</td></tr>
+                        <tr><td>流川楓</td><td>彩子</td></tr>
+                        <tr><td>赤木剛憲</td><td>相田彌生</td></tr>
+                        <tr><td>三井壽</td><td>藤井</td></tr>
+                        <tr><td>宮城良田</td><td>-</td></tr>
+                    </table>
+                </div>
+                
+                <div class="anime-group">
+                    <h3>第 4 組：名偵探柯南（Detective Conan）</h3>
+                    <table>
+                        <tr><th>男角色</th><th>女角色</th></tr>
+                        <tr><td>柯南/新一</td><td>毛利蘭</td></tr>
+                        <tr><td>毛利小五郎</td><td>灰原哀</td></tr>
+                        <tr><td>服部平次</td><td>遠山和葉</td></tr>
+                        <tr><td>怪盜乙德</td><td>鈴木園子</td></tr>
+                    </table>
+                </div>
+                
+                <div class="anime-group">
+                    <h3>第 5 組：航海王（One Piece）</h3>
+                    <table>
+                        <tr><th>男角色</th><th>女角色</th></tr>
+                        <tr><td>魯夫</td><td>娜美</td></tr>
+                        <tr><td>索隆</td><td>羅賓</td></tr>
+                        <tr><td>香吉士</td><td>乙薇薇</td></tr>
+                        <tr><td>喬巴</td><td>乙蕾貝卡</td></tr>
+                    </table>
+                </div>
+            </section>
+            
+            <!-- 遊戲說明 -->
+            <section>
+                <h2>🎲 遊戲說明</h2>
+                
+                <div class="game-box">
+                    <h3>🕺 夜遊上海</h3>
+                    <ol>
+                        <li>全員圍成一圈</li>
+                        <li>主持人喊「夜遊上海」</li>
+                        <li>大家回「幾點鐘」</li>
+                        <li>主持人喊一個數字（如「3 點鐘」）</li>
+                        <li>大家要在 3 秒內組成 3 人一組</li>
+                        <li><strong>落單的人喝酒！🍺</strong></li>
+                    </ol>
+                </div>
+                
+                <div class="game-box">
+                    <h3>😈 變態拳 / 美女拳</h3>
+                    
+                    <div class="music">🎵 背景音樂：夜遊上海 - 羅百吉（KTV 點歌）</div>
+                    
+                    <p><strong>跟著音樂一起律動！</strong></p>
+                    
+                    <div class="chant">上上、下下、左左、右右</div>
+                    <p style="text-align: center;">雙手拍兩下之後比出手勢！</p>
+                    
+                    <h4>手勢</h4>
+                    <table class="gesture-table">
+                        <tr><td>👮</td><td><strong>警察</strong></td><td>雙手比 gun</td></tr>
+                        <tr><td>😈</td><td><strong>變態</strong></td><td>雙手握拳向後划</td></tr>
+                        <tr><td>💃</td><td><strong>美女</strong></td><td>右手握拳畫圈</td></tr>
+                    </table>
+                    
+                    <div class="rules">
+                        <h4>規則（兩人對決）</h4>
+                        <ul>
+                            <li>警察 👮 贏 變態 😈</li>
+                            <li>變態 😈 贏 美女 💃</li>
+                            <li>美女 💃 贏 警察 👮</li>
+                        </ul>
+                        
+                        <h4>多人玩法（3人以上）</h4>
+                        <ul>
+                            <li><strong>比不同手勢的人輸</strong> → 喝酒！🍺</li>
+                            <li>或 <strong>少數服從多數</strong> → 少數的人喝酒！🍺</li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+            
+            <!-- 備註 -->
+            <section>
+                <div class="note-box">
+                    <h3>📝 備註</h3>
+                    <ul>
+                        <li>羅比如果能來 → 重現尾牙模式</li>
+                        <li>公司小朋友在場可以幫忙帶動氣氛</li>
+                        <li>其他環節隨機應變</li>
+                        <li class="beer"><strong>重點：什麼都要喝酒！🍺🍺🍺</strong></li>
+                    </ul>
+                </div>
+            </section>
+        </div>
+        
+        <footer>
+            最後更新：2026/02/12 | Made with ❤️ for Shelley & 康太
+        </footer>
+    </div>
+</body>
+</html>
