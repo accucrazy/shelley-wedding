@@ -1,8 +1,8 @@
 {
   "task": "711OPEN家族貼圖",
   "press_date": "2026-01-29",
-  "candidates_count": 91,
-  "date_rejected": 3,
+  "candidates_count": 52,
+  "date_rejected": 5,
   "results": [
     {
       "新聞": "711OPEN家族貼圖",
@@ -13,7 +13,7 @@
       "關鍵字": "OPEN家族 貼圖",
       "來源": "GNews",
       "原生/轉載": "原生",
-      "llm_reason": "標題明確提及7-11和OPEN!家族拜年貼圖，日期符合。"
+      "llm_reason": "標題明確提及7-11、OPEN!家族、貼圖及免費下載"
     },
     {
       "新聞": "711OPEN家族貼圖",
@@ -24,7 +24,7 @@
       "關鍵字": "OPEN家族 貼圖",
       "來源": "GNews",
       "原生/轉載": "原生",
-      "llm_reason": "標題提及7-ELEVEN、OPEN!家族和免費LINE貼圖，日期符合。"
+      "llm_reason": "標題提及7-ELEVEN、OPEN!家族及免費LINE貼圖"
     },
     {
       "新聞": "711OPEN家族貼圖",
@@ -35,7 +35,7 @@
       "關鍵字": "OPEN家族 貼圖",
       "來源": "GNews",
       "原生/轉載": "原生",
-      "llm_reason": "標題提及7-11、OPEN!家族新年貼圖，日期符合。"
+      "llm_reason": "標題提及7-11、OPEN!家族、新年貼圖及免費下載"
     },
     {
       "新聞": "711OPEN家族貼圖",
@@ -46,7 +46,7 @@
       "關鍵字": "OPEN家族 貼圖",
       "來源": "GNews",
       "原生/轉載": "原生",
-      "llm_reason": "標題提及7-ELEVEN過年數位服務，可能包含貼圖相關資訊，日期符合。"
+      "llm_reason": "標題提及貼圖、7-ELEVEN及過年數位服務"
     },
     {
       "新聞": "711OPEN家族貼圖",
@@ -57,18 +57,7 @@
       "關鍵字": "OPEN家族 貼圖",
       "來源": "GNews",
       "原生/轉載": "原生",
-      "llm_reason": "標題提及LINE免費貼圖和OPEN將，與7-ELEVEN的OPEN家族貼圖相關，日期符合。"
-    },
-    {
-      "新聞": "711OPEN家族貼圖",
-      "日期": "2026-01-29",
-      "媒體": "壹蘋新聞網",
-      "標題": "貼圖、點燈、列印一次搞定 7-ELEVEN過年數位服務全開",
-      "連結": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVHRHYTdvMHpuSUplMUhVNTdRMGVXZUQwTlgyNFl5TzhrVXF5MVhjQWM5Z1pzMnpfMFRubE5EWGRxWW9ySGRTRUFaWllJVVBOQlZ2ajN0NHg5cTFlcUVrMlE4S0VoQXB5NDEzUExpX0N0Qlh6dEpvejUyZlJwcWVmV3BKbzM?oc=5",
-      "關鍵字": "OPEN將 免費貼圖",
-      "來源": "GNews",
-      "原生/轉載": "原生",
-      "llm_reason": "標題明確提及7-ELEVEN過年數位服務，可能包含貼圖相關資訊"
+      "llm_reason": "標題提及LINE免費貼圖、OPEN將及過年"
     },
     {
       "新聞": "711OPEN家族貼圖",
@@ -79,7 +68,7 @@
       "關鍵字": "OPEN家族 貼圖",
       "來源": "DDG-broad",
       "原生/轉載": "原生",
-      "llm_reason": "標題提及open家族 line貼圖，但日期未知，給予合理懷疑空間"
+      "llm_reason": "提及open家族 line貼圖，雖然是PTT討論，但主題相關"
     },
     {
       "新聞": "711OPEN家族貼圖",
@@ -90,7 +79,7 @@
       "關鍵字": "OPEN家族 貼圖",
       "來源": "DDG-broad",
       "原生/轉載": "原生",
-      "llm_reason": "標題提及7-11推新年貼圖，且包含OPEN家族"
+      "llm_reason": "標題明確提及7-11和新年貼圖，OPEN家族可能在內"
     },
     {
       "新聞": "711OPEN家族貼圖",
@@ -101,7 +90,7 @@
       "關鍵字": "OPEN家族 貼圖",
       "來源": "DDG-broad",
       "原生/轉載": "原生",
-      "llm_reason": "標題提及uniopen新聞、OPEN!家族2026年，可能為相關新聞"
+      "llm_reason": "標題明確提及uniopen、OPEN!家族和2026年貼圖"
     },
     {
       "新聞": "711OPEN家族貼圖",
@@ -112,7 +101,7 @@
       "關鍵字": "OPEN家族 貼圖",
       "來源": "DDG-broad",
       "原生/轉載": "原生",
-      "llm_reason": "標題明確提及7-11推OPEN!家族拜年貼圖，且日期符合"
+      "llm_reason": "標題明確提及7-11、OPEN!家族拜年貼圖和發布日期"
     },
     {
       "新聞": "711OPEN家族貼圖",
@@ -123,68 +112,24 @@
       "關鍵字": "OPEN家族 貼圖",
       "來源": "DDG-broad",
       "原生/轉載": "原生",
-      "llm_reason": "標題提及OPEN!家族2026年全新免費貼圖"
+      "llm_reason": "標題明確提及OPEN!家族、2026年和免費貼圖"
     },
     {
       "新聞": "711OPEN家族貼圖",
       "日期": "",
-      "媒體": "今日新聞",
-      "標題": "LINE免費貼圖39組打包下載！OPEN小將免好友 可愛保暖早安圖報到 | 聰...",
-      "連結": "https://www.nownews.com/news/6634780",
-      "關鍵字": "OPEN小將 貼圖",
+      "媒體": "中天新聞網",
+      "標題": "快下載！「16款LINE貼圖」全免費 拜年超實用 | 中天新聞網",
+      "連結": "https://ctinews.com/news/items/gOnLemk2Wk",
+      "關鍵字": "7-ELEVEN OPEN 拜年",
       "來源": "DDG-broad",
       "原生/轉載": "原生",
-      "llm_reason": "提及OPEN小將LINE免費貼圖"
-    },
-    {
-      "新聞": "711OPEN家族貼圖",
-      "日期": "",
-      "媒體": "聯合新聞網",
-      "標題": "LINE免費貼圖5款！OPEN小將免任務爽用半年 樂高喊新年吉祥話快下載 | ...",
-      "連結": "https://tech.udn.com/tech/story/123154/8490780",
-      "關鍵字": "OPEN小將 貼圖",
-      "來源": "DDG-broad",
-      "原生/轉載": "原生",
-      "llm_reason": "提及OPEN小將LINE免費貼圖"
-    },
-    {
-      "新聞": "711OPEN家族貼圖",
-      "日期": "",
-      "媒體": "Yahoo新聞",
-      "標題": "LINE新增4款免費貼圖 OPEN小將動起來",
-      "連結": "https://tw.news.yahoo.com/line新增4款免費貼圖-open小將動起來-025303969.html",
-      "關鍵字": "OPEN小將 貼圖",
-      "來源": "DDG-broad",
-      "原生/轉載": "轉載",
-      "llm_reason": "提及OPEN小將LINE免費貼圖"
-    },
-    {
-      "新聞": "711OPEN家族貼圖",
-      "日期": "",
-      "媒體": "LINE TODAY",
-      "標題": "5款LINE免費貼圖開放下載！OPEN小將、樂高陪你開心過新年",
-      "連結": "https://today.line.me/tw/v3/article/ML1ljWw",
-      "關鍵字": "OPEN小將 貼圖",
-      "來源": "DDG-broad",
-      "原生/轉載": "轉載",
-      "llm_reason": "提及OPEN小將LINE免費貼圖"
-    },
-    {
-      "新聞": "711OPEN家族貼圖",
-      "日期": "",
-      "媒體": "奇奇筆記",
-      "標題": "【免費 貼 圖 】 OPEN 小 將 、黑桃A喜、最萌momo... | KiKiNote 奇奇筆記",
-      "連結": "https://kikinote.net/154612",
-      "關鍵字": "OPEN小將 貼圖",
-      "來源": "DDG-broad",
-      "原生/轉載": "原生",
-      "llm_reason": "提及OPEN小將免費貼圖"
+      "llm_reason": "標題提及免費LINE貼圖，可能包含OPEN家族"
     }
   ],
   "stats": {
-    "GNews": 25,
-    "DDG-broad": 32,
-    "DDG-site": 34,
-    "DDG-title": 0
+    "GNews": 20,
+    "DDG-broad": 16,
+    "DDG-site": 13,
+    "DDG-title": 3
   }
 }

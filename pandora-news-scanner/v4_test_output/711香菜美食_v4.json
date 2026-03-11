@@ -1,19 +1,19 @@
 {
   "task": "711香菜美食",
   "press_date": "2026-01-29",
-  "candidates_count": 66,
+  "candidates_count": 45,
   "date_rejected": 2,
   "results": [
     {
       "新聞": "711香菜美食",
-      "日期": "2026-01-30",
-      "媒體": "蕃新聞",
-      "標題": "7-11超過20款香菜美食登場！擴大你的香菜宇宙！",
-      "連結": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxeENBSjhKc2kxNWkxNUxrdXFneWhJdVl1WE9HNlA0cldJeERQaG1qNFpXbksyb2hZVHBoU3RaVThLcUpIZjJBNDRQQWtpdw?oc=5",
+      "日期": "2026-01-31",
+      "媒體": "Zeek玩家誌",
+      "標題": "7-11逾20款香菜美食吃好吃滿！首推「香菜風味雞肉堡、捲餅」嚐鮮必吃",
+      "連結": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EempjemRmUVA5elY4OTVBdE0yS3dnOWZ6ajV6SnNrSno3Rm1FTW5scjN3dkdoMzNORmVvajI3ODVNTjJkRkRvX0gyQ3VpTmdEeVE?oc=5",
       "關鍵字": "7-ELEVEN 香菜美食",
       "來源": "GNews",
       "原生/轉載": "原生",
-      "llm_reason": "標題明確提及7-11超過20款香菜美食"
+      "llm_reason": "明確報導7-ELEVEN的香菜美食"
     },
     {
       "新聞": "711香菜美食",
@@ -24,7 +24,7 @@
       "關鍵字": "7-ELEVEN 香菜美食",
       "來源": "GNews",
       "原生/轉載": "原生",
-      "llm_reason": "標題提及7-11全家引爆香菜大戰"
+      "llm_reason": "提及7-ELEVEN和全家的香菜大戰"
     },
     {
       "新聞": "711香菜美食",
@@ -35,7 +35,7 @@
       "關鍵字": "7-ELEVEN 香菜美食",
       "來源": "GNews",
       "原生/轉載": "原生",
-      "llm_reason": "標題提及7-11咖啡優惠與20款香菜美食"
+      "llm_reason": "提及7-ELEVEN的香菜美食"
     },
     {
       "新聞": "711香菜美食",
@@ -46,7 +46,7 @@
       "關鍵字": "7-ELEVEN 香菜美食",
       "來源": "GNews",
       "原生/轉載": "原生",
-      "llm_reason": "標題提及全家香菜奶茶與7-11香菜美食"
+      "llm_reason": "同時提及全家和7-ELEVEN的香菜產品"
     },
     {
       "新聞": "711香菜美食",
@@ -57,7 +57,7 @@
       "關鍵字": "7-ELEVEN 香菜美食",
       "來源": "GNews",
       "原生/轉載": "原生",
-      "llm_reason": "標題提及全家香菜雪糕與7-11推20款香菜美食"
+      "llm_reason": "提及全家和7-ELEVEN的香菜產品"
     },
     {
       "新聞": "711香菜美食",
@@ -68,29 +68,18 @@
       "關鍵字": "7-ELEVEN 香菜美食",
       "來源": "GNews",
       "原生/轉載": "原生",
-      "llm_reason": "標題明確提及7-11推超過20款香菜美食"
+      "llm_reason": "報導7-ELEVEN香菜美食"
     },
     {
       "新聞": "711香菜美食",
-      "日期": "2026-02-10",
-      "媒體": "cava",
-      "標題": "7-ELEVEN、全家、萊爾富3大超商「香菜」新品！",
-      "連結": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UZEpzX1pMcUpfeU5RR1daRUVNT3F2el93QzRaRXlIT3ZfTm5OTmxnV09WdDEtelJVY0t5RUdLS242Ym5hd1UxU2RyTGhwZTRabDRZN1E0TQ?oc=5",
+      "日期": "2026-01-30",
+      "媒體": "蕃新聞",
+      "標題": "7-11超過20款香菜美食登場！擴大你的香菜宇宙！",
+      "連結": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxeENBSjhKc2kxNWkxNUxrdXFneWhJdVl1WE9HNlA0cldJeERQaG1qNFpXbksyb2hZVHBoU3RaVThLcUpIZjJBNDRQQWtpdw?oc=5",
       "關鍵字": "7-ELEVEN 開香 香菜",
       "來源": "GNews",
       "原生/轉載": "原生",
-      "llm_reason": "標題提及7-ELEVEN、全家、萊爾富3大超商「香菜」新品"
-    },
-    {
-      "新聞": "711香菜美食",
-      "日期": "2026-01-31",
-      "媒體": "Zeek玩家誌",
-      "標題": "7-11逾20款香菜美食吃好吃滿！首推「香菜風味雞肉堡、捲餅」嚐鮮必吃",
-      "連結": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EempjemRmUVA5elY4OTVBdE0yS3dnOWZ6ajV6SnNrSno3Rm1FTW5scjN3dkdoMzNORmVvajI3ODVNTjJkRkRvX0gyQ3VpTmdEeVE?oc=5",
-      "關鍵字": "逾20款香菜美食",
-      "來源": "GNews",
-      "原生/轉載": "原生",
-      "llm_reason": "明確報導7-ELEVEN逾20款香菜美食，並提及具體產品"
+      "llm_reason": "報導7-ELEVEN香菜美食"
     },
     {
       "新聞": "711香菜美食",
@@ -101,7 +90,7 @@
       "關鍵字": "7-ELEVEN 香菜美食",
       "來源": "DDG-broad",
       "原生/轉載": "原生",
-      "llm_reason": "標題明確提及7-ELEVEN推出20+香菜美食，但日期未知，給予合理懷疑空間"
+      "llm_reason": "標題明確提及7-ELEVEN推出香菜美食"
     },
     {
       "新聞": "711香菜美食",
@@ -112,7 +101,7 @@
       "關鍵字": "7-ELEVEN 香菜美食",
       "來源": "DDG-broad",
       "原生/轉載": "原生",
-      "llm_reason": "標題明確提及7-ELEVEN逾30款香菜美食，但日期未知，給予合理懷疑空間"
+      "llm_reason": "標題明確提及7-ELEVEN推出香菜美食"
     },
     {
       "新聞": "711香菜美食",
@@ -123,7 +112,7 @@
       "關鍵字": "7-ELEVEN 香菜美食",
       "來源": "DDG-broad",
       "原生/轉載": "原生",
-      "llm_reason": "標題明確提及7-ELEVEN超過20款香菜美食，但日期未知，給予合理懷疑空間"
+      "llm_reason": "標題明確提及7-ELEVEN推出香菜美食"
     },
     {
       "新聞": "711香菜美食",
@@ -134,7 +123,7 @@
       "關鍵字": "7-ELEVEN 香菜美食",
       "來源": "DDG-broad",
       "原生/轉載": "轉載",
-      "llm_reason": "標題明確提及7-ELEVEN推出20+香菜美食，但日期未知，給予合理懷疑空間"
+      "llm_reason": "標題明確提及7-ELEVEN推出香菜美食"
     },
     {
       "新聞": "711香菜美食",
@@ -145,7 +134,7 @@
       "關鍵字": "7-ELEVEN 香菜美食",
       "來源": "DDG-broad",
       "原生/轉載": "原生",
-      "llm_reason": "標題明確提及7-ELEVEN超過20款香菜零食、美食，但日期未知，給予合理懷疑空間"
+      "llm_reason": "標題明確提及7-ELEVEN推出香菜美食"
     },
     {
       "新聞": "711香菜美食",
@@ -156,7 +145,7 @@
       "關鍵字": "7-ELEVEN 香菜美食",
       "來源": "DDG-broad",
       "原生/轉載": "原生",
-      "llm_reason": "標題明確提及7-ELEVEN超過20款香菜口袋清單，但日期未知，給予合理懷疑空間"
+      "llm_reason": "標題明確提及7-ELEVEN推出香菜美食"
     },
     {
       "新聞": "711香菜美食",
@@ -167,7 +156,7 @@
       "關鍵字": "7-ELEVEN 香菜美食",
       "來源": "DDG-broad",
       "原生/轉載": "原生",
-      "llm_reason": "標題明確提及7-ELEVEN「香菜宇宙」及相關產品，但日期未知，給予合理懷疑空間"
+      "llm_reason": "標題明確提及7-ELEVEN推出香菜美食"
     },
     {
       "新聞": "711香菜美食",
@@ -178,7 +167,7 @@
       "關鍵字": "7-ELEVEN 開香 香菜",
       "來源": "DDG-broad",
       "原生/轉載": "轉載",
-      "llm_reason": "標題明確提及7-ELEVEN逾30款香菜美食，但日期未知，給予合理懷疑空間"
+      "llm_reason": "標題明確提及7-ELEVEN推出香菜美食"
     },
     {
       "新聞": "711香菜美食",
@@ -189,7 +178,7 @@
       "關鍵字": "7-ELEVEN 開香 香菜",
       "來源": "DDG-broad",
       "原生/轉載": "原生",
-      "llm_reason": "標題明確提及7-ELEVEN打造香菜宇宙，但日期未知，給予合理懷疑空間"
+      "llm_reason": "標題明確提及7-ELEVEN推出香菜美食"
     },
     {
       "新聞": "711香菜美食",
@@ -200,7 +189,29 @@
       "關鍵字": "7-ELEVEN 開香 香菜",
       "來源": "DDG-broad",
       "原生/轉載": "原生",
-      "llm_reason": "標題明確提及7-ELEVEN「香菜宇宙」，但日期未知，給予合理懷疑空間"
+      "llm_reason": "標題明確提及7-ELEVEN推出香菜美食"
+    },
+    {
+      "新聞": "711香菜美食",
+      "日期": "",
+      "媒體": "上報 Up Media",
+      "標題": "香菜控必衝！全家香菜奶茶、香菜雪糕獨家上市 7-11 開賣香菜捲餅、香...",
+      "連結": "https://www.upmedia.mg/tw/lifestyle/food/251175",
+      "關鍵字": "7-ELEVEN 開香 香菜",
+      "來源": "DDG-broad",
+      "原生/轉載": "原生",
+      "llm_reason": "同時提及全家與7-ELEVEN的香菜產品"
+    },
+    {
+      "新聞": "711香菜美食",
+      "日期": "",
+      "媒體": "TVBS新聞",
+      "標題": "2/4香菜控必衝超商！全家獨賣香菜雪糕、7-11推20款香菜美食│TVBS新聞...",
+      "連結": "https://news.tvbs.com.tw/life/3116249",
+      "關鍵字": "7-11 香菜 20款",
+      "來源": "DDG-broad",
+      "原生/轉載": "原生",
+      "llm_reason": "同時提及全家與7-ELEVEN的香菜產品"
     },
     {
       "新聞": "711香菜美食",
@@ -211,7 +222,7 @@
       "關鍵字": "7-ELEVEN 就愛這一味 香菜",
       "來源": "DDG-broad",
       "原生/轉載": "原生",
-      "llm_reason": "標題明確提及7-ELEVEN逾20款香菜美食，但日期未知，給予合理懷疑空間"
+      "llm_reason": "標題明確提及7-ELEVEN推出香菜美食"
     },
     {
       "新聞": "711香菜美食",
@@ -222,29 +233,7 @@
       "關鍵字": "7-ELEVEN 就愛這一味 香菜",
       "來源": "DDG-broad",
       "原生/轉載": "轉載",
-      "llm_reason": "標題明確提及7-ELEVEN推出20+香菜美食，但日期未知，給予合理懷疑空間"
-    },
-    {
-      "新聞": "711香菜美食",
-      "日期": "",
-      "媒體": "4gamers",
-      "標題": "超商「香菜宇宙」再擴增！7-ELEVEN逾30款香菜美食等你來「開香」 | 4G...",
-      "連結": "https://www.4gamers.com.tw/saged/detail/r4kjrw5kd48nkd",
-      "關鍵字": "7-ELEVEN 香菜美食",
-      "來源": "DDG-site",
-      "原生/轉載": "轉載",
-      "llm_reason": "標題明確提及7-ELEVEN逾30款香菜美食，但日期未知，給予合理懷疑空間"
-    },
-    {
-      "新聞": "711香菜美食",
-      "日期": "",
-      "媒體": "ETtoday新聞雲",
-      "標題": "超商推「香菜氣泡水」還有霜淇淋！網驚：連這都不放過 | ETtoday消費...",
-      "連結": "https://www.ettoday.net/news/20250927/3040748.htm",
-      "關鍵字": "7-ELEVEN 香菜美食",
-      "來源": "DDG-site",
-      "原生/轉載": "原生",
-      "llm_reason": "提到超商推香菜氣泡水和霜淇淋，可能包含7-ELEVEN"
+      "llm_reason": "標題明確提及7-ELEVEN推出香菜美食"
     },
     {
       "新聞": "711香菜美食",
@@ -255,46 +244,13 @@
       "關鍵字": "7-ELEVEN 香菜美食",
       "來源": "DDG-site",
       "原生/轉載": "原生",
-      "llm_reason": "明確提到7-ELEVEN逾30款香菜美食"
-    },
-    {
-      "新聞": "711香菜美食",
-      "日期": "",
-      "媒體": "三立新聞",
-      "標題": "香菜控衝啦！全家「香菜霜淇淋」限定7門市開吃 7-11蛋黃酥霜淇淋迎戰 ...",
-      "連結": "https://www.setn.com/News.aspx?NewsID=1727753",
-      "關鍵字": "7-ELEVEN 香菜美食",
-      "來源": "DDG-site",
-      "原生/轉載": "原生",
-      "llm_reason": "提到全家香菜霜淇淋，並提及7-11蛋黃酥霜淇淋迎戰，可能包含7-ELEVEN香菜產品"
-    },
-    {
-      "新聞": "711香菜美食",
-      "日期": "",
-      "媒體": "中天新聞網",
-      "標題": "香菜、榴槤變零食！7-11獵奇口味引熱議 網友：跑3家才買到",
-      "連結": "https://ctinews.com/news/items/4bnbMP2exP",
-      "關鍵字": "7-ELEVEN 香菜美食",
-      "來源": "DDG-site",
-      "原生/轉載": "原生",
-      "llm_reason": "提到7-11獵奇口味，包含香菜，可能為本次新聞稿露出"
-    },
-    {
-      "新聞": "711香菜美食",
-      "日期": "",
-      "媒體": "聚財網-財經新聞",
-      "標題": "超商「香菜宇宙」再擴增！7-ELEVEN逾30款香菜美食等你來「開香」",
-      "連結": "https://news.wearn.com/c1907809.html",
-      "關鍵字": "7-ELEVEN 香菜美食",
-      "來源": "DDG-site",
-      "原生/轉載": "轉載",
-      "llm_reason": "標題明確提及7-ELEVEN的香菜美食活動。"
+      "llm_reason": "標題明確提及7-ELEVEN和香菜美食。"
     }
   ],
   "stats": {
-    "GNews": 25,
+    "GNews": 23,
     "DDG-broad": 14,
-    "DDG-site": 27,
+    "DDG-site": 8,
     "DDG-title": 0
   }
 }
