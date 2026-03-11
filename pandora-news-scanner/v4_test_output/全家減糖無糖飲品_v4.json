@@ -1,7 +1,8 @@
 {
-  "version": "v4.2",
-  "brand": "全家",
-  "date": "2026-03-10",
+  "task": "全家減糖無糖飲品",
+  "press_date": "2026-02-12",
+  "candidates_count": 76,
+  "date_rejected": 1,
   "results": [
     {
       "新聞": "全家減糖無糖飲品",
@@ -268,6 +269,10 @@
       "llm_reason": "報導營養師與全家合作推出無糖飲專區，符合條件且日期正確"
     }
   ],
-  "total": 24,
-  "media_count": 18
+  "stats": {
+    "GNews": 27,
+    "DDG-broad": 23,
+    "DDG-site": 26,
+    "DDG-title": 0
+  }
 }

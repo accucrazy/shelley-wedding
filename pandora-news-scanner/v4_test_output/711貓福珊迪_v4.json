@@ -1,8 +1,8 @@
 {
   "task": "711貓福珊迪",
   "press_date": "2026-01-30",
-  "candidates_count": 38,
-  "date_rejected": 0,
+  "candidates_count": 71,
+  "date_rejected": 3,
   "results": [
     {
       "新聞": "711貓福珊迪",
@@ -13,7 +13,7 @@
       "關鍵字": "7-ELEVEN 貓福珊迪",
       "來源": "GNews",
       "原生/轉載": "原生",
-      "llm_reason": "明確報導7-ELEVEN與貓福珊迪聯名活動，包含限定飲品"
+      "llm_reason": "明確報導7-ELEVEN與貓福珊迪聯名活動及商品"
     },
     {
       "新聞": "711貓福珊迪",
@@ -24,7 +24,7 @@
       "關鍵字": "7-ELEVEN 貓福珊迪",
       "來源": "GNews",
       "原生/轉載": "原生",
-      "llm_reason": "報導7-ELEVEN貓之日與貓福珊迪合作，提及主題店與商品"
+      "llm_reason": "報導7-ELEVEN貓之日與貓福珊迪合作，包含主題店和商品"
     },
     {
       "新聞": "711貓福珊迪",
@@ -35,7 +35,7 @@
       "關鍵字": "7-ELEVEN 貓福珊迪",
       "來源": "GNews",
       "原生/轉載": "原生",
-      "llm_reason": "報導7-ELEVEN貓福珊迪主題門市與限定飲品"
+      "llm_reason": "報導7-ELEVEN貓福珊迪主題門市、杯身、杯塞及奶茶"
     },
     {
       "新聞": "711貓福珊迪",
@@ -46,7 +46,7 @@
       "關鍵字": "7-ELEVEN 貓福珊迪",
       "來源": "GNews",
       "原生/轉載": "原生",
-      "llm_reason": "報導7-ELEVEN與貓福珊迪聯名，提及飲品、甜點與限定門市"
+      "llm_reason": "報導7-ELEVEN與貓福珊迪聯名奶茶、甜點和限定門市"
     },
     {
       "新聞": "711貓福珊迪",
@@ -57,7 +57,7 @@
       "關鍵字": "7-ELEVEN 貓福珊迪",
       "來源": "GNews",
       "原生/轉載": "原生",
-      "llm_reason": "報導7-ELEVEN「喵財進寶提拉米蘇風味奶茶」的販售資訊"
+      "llm_reason": "專門介紹7-ELEVEN「喵財進寶提拉米蘇風味奶茶」"
     },
     {
       "新聞": "711貓福珊迪",
@@ -68,7 +68,7 @@
       "關鍵字": "7-ELEVEN 貓福珊迪",
       "來源": "GNews",
       "原生/轉載": "原生",
-      "llm_reason": "報導7-ELEVEN春節貓福珊迪活動，提及杯塞與收銀機特殊設計"
+      "llm_reason": "報導7-ELEVEN春節貓福珊迪杯塞及收銀機活動"
     },
     {
       "新聞": "711貓福珊迪",
@@ -79,7 +79,7 @@
       "關鍵字": "7-ELEVEN 貓福珊迪",
       "來源": "GNews",
       "原生/轉載": "原生",
-      "llm_reason": "報導7-ELEVEN貓福珊迪杯塞與主題店"
+      "llm_reason": "報導7-ELEVEN貓貓杯塞、奶茶及貓福珊迪主題店"
     },
     {
       "新聞": "711貓福珊迪",
@@ -90,7 +90,7 @@
       "關鍵字": "7-ELEVEN 貓福珊迪",
       "來源": "GNews",
       "原生/轉載": "原生",
-      "llm_reason": "綜合報導，有提到7-11「貓福珊迪提拉米蘇奶茶」"
+      "llm_reason": "提及7-11「貓福珊迪提拉米蘇奶茶」"
     },
     {
       "新聞": "711貓福珊迪",
@@ -101,7 +101,7 @@
       "關鍵字": "7-ELEVEN 貓福珊迪",
       "來源": "GNews",
       "原生/轉載": "原生",
-      "llm_reason": "綜合報導，有提到7-11推「貓福珊迪」聯名杯"
+      "llm_reason": "提及7-11推「貓福珊迪」聯名杯"
     },
     {
       "新聞": "711貓福珊迪",
@@ -112,7 +112,7 @@
       "關鍵字": "7-ELEVEN 貓福珊迪",
       "來源": "GNews",
       "原生/轉載": "原生",
-      "llm_reason": "綜合報導，有提到7-11「貓福珊迪」聯名開喝"
+      "llm_reason": "提及7-11「貓福珊迪」聯名開喝"
     },
     {
       "新聞": "711貓福珊迪",
@@ -123,7 +123,62 @@
       "關鍵字": "7-ELEVEN 貓福珊迪",
       "來源": "GNews",
       "原生/轉載": "原生",
-      "llm_reason": "報導7-ELEVEN貓之日活動，提及收銀機特殊設計"
+      "llm_reason": "報導7-11貓之日收銀機變聲及活動"
+    },
+    {
+      "新聞": "711貓福珊迪",
+      "日期": "2026-02-04",
+      "媒體": "女人我最大",
+      "標題": "全家爆紅「熱狗變熱貓」吊飾怎麼買？主子瘋搶「貓咪制服」？貓之日7-11推貓福珊迪杯塞",
+      "連結": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnZVM3eWZmZE1nU3dVa1dZaUIwUG1tbEcwVC04SDBTNVJacm5PY3IyalR5a2FOQWc3QmRKaFlJVHF4VEIycnp5VmZvRFhDUXhZOWJJ?oc=5",
+      "關鍵字": "7-ELEVEN 貓福珊迪",
+      "來源": "GNews",
+      "原生/轉載": "原生",
+      "llm_reason": "提及貓之日7-11推貓福珊迪杯塞"
+    },
+    {
+      "新聞": "711貓福珊迪",
+      "日期": "2026-02-21",
+      "媒體": "WalkerLand 窩客島",
+      "標題": "222貓之日貓奴買爆！5大貓之日話題全家熱貓星巴克貓貓杯套，7-11貓貓杯一定要搶。|美食",
+      "連結": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90X192X1BBOFF5SE1xTEQ3emZYMDdOSTR1QUt4WU1pcGh3cUZZX0tBaXJFZ0tBbVp6Si12cGplQS1OYnpsanhBOEZjZGFoeS1GRk1oNjlXeENyWEdQcGc?oc=5",
+      "關鍵字": "7-ELEVEN 貓福珊迪",
+      "來源": "GNews",
+      "原生/轉載": "原生",
+      "llm_reason": "提及7-11貓貓杯"
+    },
+    {
+      "新聞": "711貓福珊迪",
+      "日期": "2026-02-22",
+      "媒體": "今日新聞",
+      "標題": "今日壽星／全台貓奴崛起！2月22日貓之日由來、超商慶祝活動一覽",
+      "連結": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rQ0sySFAtamhtNnRBcURzLWxVZF9WSzFzbjRmclIwSjVOSzMzOGZuWFdVcGx6bzZXVF9wSjl2Q1AzOFA4anZXRTF1b2jSAVJBVV95cUxNSWt3Mk83LUVZamVqUGl2VFJISFB5MDdmS2Y5c19kb2xLUC1FM3ZNWnZTbHA2OGRSWXUyUndzWkZnMEJrVWpUMVo0U01Md2tTaHhR?oc=5",
+      "關鍵字": "7-ELEVEN 貓福珊迪",
+      "來源": "GNews",
+      "原生/轉載": "原生",
+      "llm_reason": "提及超商慶祝活動一覽，可能包含7-11"
+    },
+    {
+      "新聞": "711貓福珊迪",
+      "日期": "2026-02-21",
+      "媒體": "udn STYLE",
+      "標題": "年後開工少不了咖啡！7-ELEVEN、全家便利商店「限時優惠」為你打氣",
+      "連結": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wRWtWSThteDRLY0JYSUFIUFZYbDFuTnBSZnVFdUVjWk5lOGZtd1haS0IwcW8xX0tqMTR2YUY5UWJrbWk4MEhKcE1HVk96YXZBdWkwYmFwUVlodWQzTTEyQm5xY1M1aWN2eDlhbzg5SW1CdTJKQjNyOGxtVdIBYEFVX3lxTE1CVUw1SFAzLUkyZkxBSGZwUklyX19kemZqb3RTUWFrOEs0Q284V2dqX0l5TlFSS29hbnRzUnk2SlJ2amJqYTFWQjdWMGE5cW9EeGtuTGJDZ0d2NEZtRk1Cdw?oc=5",
+      "關鍵字": "7-ELEVEN 貓福珊迪",
+      "來源": "GNews",
+      "原生/轉載": "原生",
+      "llm_reason": "提及7-ELEVEN的限時優惠"
+    },
+    {
+      "新聞": "711貓福珊迪",
+      "日期": "2026-03-08",
+      "媒體": "MSN新聞",
+      "標題": "222貓之日貓奴買爆! 5大貓之日話題 全家熱貓 星巴克貓貓杯套，7-11貓貓杯一定要搶。",
+      "連結": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxQcUl6MXMwVXZhRWJSZ1Q0Zm9qMlkzZlhhOFNpZmxDSmJ1b0hwQzlmT2hiSFF0d1c2c2I2NHY4UmJCMjZIZTJJWWNiMHcwQWdHa2ZyOTVldThSNDQxZlU5UXE1UUZGejQ3Z1VvUTVadE1JWXl1V1ZQelhYQnRRVkpnei1iR0d1cUFocnFnWHNwTk8wYk1uTEFRWkctZU55NTR2aG41dklEUHQ0YXlmNmxaek9McGIxcjBvM2dxb2EwMHZrcFlVb091RU9NZzJvbU5Qc3BQaC03VzNQVU9udndjOUM1dUZTeHE3MzltX09wUjV0TVNrallDcWgyczJXZ0wyNi1yaW5YV0h0TWVrd0tEZ1pNa2I0UGZFTEtSRkhqaHJhME9ySEJGeU9CUXhIekw4cVF6TEpsOWlGeDR6NkJvVV9wTFRCUGxCbGVVUE5MeVNiZEo0Z0VkZTJqbDNjLS0yRnl2U1dfWkZYY3VWQVc0dV9PWmo2NFA2RXB5bko2TVE1ZmxiM0Y0NzFEX1Rua21fRXFGbE5uTF9MWi1SakhSQVhnbzNWcmdON05aWENwTjdJWE9KcjM4dmg4WXlROW03dmpVRUYzc29zSmNoaFJ5Vi1HbnZNZzUtbll1MC1wRlkwTElpRDN2aVRmVXlCdmc3d0JWWUpkdUhiN1phbUFQU2k5cEFSbnFIVndZbXNzNU5kVS1hQnhkME9sYzB2bXdYaEw2cmhNbmVOWGxob3liYW5nZTFGcjN2Q0RQelJ2aXFzbnowLUJqMUhyYjFRWTJSb2E0VEE2VEl1RWt2dDI2QkE4Z1hnazRQSzZDQjc3UER4VFdFY0Fn?oc=5",
+      "關鍵字": "7-ELEVEN 貓之日 貓福珊迪",
+      "來源": "GNews",
+      "原生/轉載": "轉載",
+      "llm_reason": "提及7-11貓貓杯"
     },
     {
       "新聞": "711貓福珊迪",
@@ -134,7 +189,40 @@
       "關鍵字": "7-ELEVEN 喵財進寶 提拉米蘇 奶茶",
       "來源": "GNews",
       "原生/轉載": "原生",
-      "llm_reason": "報導7-ELEVEN貓之日聯名貓福珊迪活動，提及飲品與杯塞"
+      "llm_reason": "報導7-11迎貓之日聯名「貓福珊迪」活動"
+    },
+    {
+      "新聞": "711貓福珊迪",
+      "日期": "2026-02-01",
+      "媒體": "pchome新聞",
+      "標題": "喵～貓之日 7-ELEVEN聯名「貓福珊迪」甜蜜賣萌！",
+      "連結": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdXBrb044cG1yZkw4ejl3Vy1STElKZXRiSk5zUDRTa0RiOWhXOXRjT3Jsc3dtNFA2alQ4VnI3SlI5RFhBNmc0X3hDSTlYUGlHelRUTE43YlVZV1YxeHJZZ2ZyMFJTNG9GM1ZPZ0hGUXR6UlN6ZmtpbUhRSWQyVG1wbzhDdldsa0wyS3Q0?oc=5",
+      "關鍵字": "統一超商 貓福珊迪",
+      "來源": "GNews",
+      "原生/轉載": "轉載",
+      "llm_reason": "報導7-ELEVEN聯名「貓福珊迪」活動"
+    },
+    {
+      "新聞": "711貓福珊迪",
+      "日期": "2026-02-04",
+      "媒體": "工商時報",
+      "標題": "IP禮盒大戰開打！超市量販拚最低價貓福珊迪、吉伊卡哇全上陣- 生活",
+      "連結": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vY1N3bXlpUUNveldycFZoLWRJMEJuNG5rQURRZzA4OTJTN3VZdnJSai11LWhiT1RHWndMZ3lic05uVnNhMk04eHlwR081bHhqWFB0VjFOd3dPN3YyX09B?oc=5",
+      "關鍵字": "統一超商 貓福珊迪",
+      "來源": "GNews",
+      "原生/轉載": "轉載",
+      "llm_reason": "提及貓福珊迪IP禮盒，且超市量販為通路，可能包含7-ELEVEN"
+    },
+    {
+      "新聞": "711貓福珊迪",
+      "日期": "",
+      "媒體": "YouTube",
+      "標題": "7 - ELEVEN 貓 の日 x mofusand 貓 福 珊 迪",
+      "連結": "https://www.youtube.com/watch?v=9W4xhAlSTFw",
+      "關鍵字": "7-ELEVEN 貓福珊迪",
+      "來源": "DDG-broad",
+      "原生/轉載": "原生",
+      "llm_reason": "標題明確提及7-ELEVEN貓之日與貓福珊迪"
     },
     {
       "新聞": "711貓福珊迪",
@@ -144,8 +232,8 @@
       "連結": "https://udn.com/news/story/7270/9300813",
       "關鍵字": "7-ELEVEN 貓福珊迪",
       "來源": "DDG-broad",
-      "原生/轉載": "轉載",
-      "llm_reason": "與#1相同，明確報導7-ELEVEN與貓福珊迪聯名活動，包含限定飲品，但日期未知，合理懷疑是本次新聞稿露出"
+      "原生/轉載": "原生",
+      "llm_reason": "標題明確提及7-ELEVEN與貓福珊迪聯名"
     },
     {
       "新聞": "711貓福珊迪",
@@ -156,7 +244,7 @@
       "關鍵字": "7-ELEVEN 貓福珊迪",
       "來源": "DDG-broad",
       "原生/轉載": "原生",
-      "llm_reason": "標題明確提及7-ELEVEN貓福珊迪聯名活動"
+      "llm_reason": "標題明確提及7-ELEVEN貓福珊迪聯名"
     },
     {
       "新聞": "711貓福珊迪",
@@ -167,7 +255,7 @@
       "關鍵字": "7-ELEVEN 貓福珊迪",
       "來源": "DDG-broad",
       "原生/轉載": "原生",
-      "llm_reason": "標題明確提及7-ELEVEN聯名貓福珊迪，日期為2026/02/01，合理推斷為新聞稿露出"
+      "llm_reason": "標題明確提及7-ELEVEN貓之日與貓福珊迪"
     },
     {
       "新聞": "711貓福珊迪",
@@ -178,7 +266,7 @@
       "關鍵字": "7-ELEVEN 貓福珊迪",
       "來源": "DDG-broad",
       "原生/轉載": "原生",
-      "llm_reason": "標題明確提及2026貓之日、7-11貓福珊迪"
+      "llm_reason": "標題明確提及7-11貓福珊迪主題門市"
     },
     {
       "新聞": "711貓福珊迪",
@@ -189,7 +277,18 @@
       "關鍵字": "7-ELEVEN 貓福珊迪",
       "來源": "DDG-broad",
       "原生/轉載": "原生",
-      "llm_reason": "標題明確提及7-11迎貓之日聯名貓福珊迪"
+      "llm_reason": "標題明確提及7-11貓之日聯名貓福珊迪"
+    },
+    {
+      "新聞": "711貓福珊迪",
+      "日期": "",
+      "媒體": "101新聞網",
+      "標題": "7-ELEVEN｜貓福珊迪X三麗鷗聯名集點活動",
+      "連結": "https://www.7-11.com.tw/event/24mofusanrio/index.aspx",
+      "關鍵字": "7-ELEVEN 貓福珊迪",
+      "來源": "DDG-broad",
+      "原生/轉載": "原生",
+      "llm_reason": "標題明確提及7-ELEVEN貓福珊迪X三麗鷗聯名集點活動"
     },
     {
       "新聞": "711貓福珊迪",
@@ -222,7 +321,7 @@
       "關鍵字": "7-ELEVEN 喵財進寶 提拉米蘇 奶茶",
       "來源": "DDG-broad",
       "原生/轉載": "原生",
-      "llm_reason": "標題提及7-11喵財進寶提拉米蘇風味奶茶、貓福珊迪"
+      "llm_reason": "提及7-11喵財進寶提拉米蘇風味奶茶及貓福珊迪"
     },
     {
       "新聞": "711貓福珊迪",
@@ -233,7 +332,7 @@
       "關鍵字": "7-ELEVEN 喵財進寶 提拉米蘇 奶茶",
       "來源": "DDG-broad",
       "原生/轉載": "原生",
-      "llm_reason": "標題提及7-11貓貓杯塞、貓福珊迪"
+      "llm_reason": "提及7-11貓貓杯塞及貓福珊迪"
     },
     {
       "新聞": "711貓福珊迪",
@@ -244,7 +343,7 @@
       "關鍵字": "7-ELEVEN 喵財進寶 提拉米蘇 奶茶",
       "來源": "DDG-broad",
       "原生/轉載": "原生",
-      "llm_reason": "標題提及7-ELEVEN「喵財進寶提拉米蘇風味奶茶」"
+      "llm_reason": "提及7-ELEVEN「喵財進寶提拉米蘇風味奶茶」及貓福珊迪"
     },
     {
       "新聞": "711貓福珊迪",
@@ -255,7 +354,29 @@
       "關鍵字": "7-ELEVEN 喵財進寶 提拉米蘇 奶茶",
       "來源": "DDG-broad",
       "原生/轉載": "原生",
-      "llm_reason": "標題提及7-11春節迎招財貓、貓福珊迪杯塞"
+      "llm_reason": "提及7-11春節迎招財貓及貓福珊迪杯塞"
+    },
+    {
+      "新聞": "711貓福珊迪",
+      "日期": "",
+      "媒體": "Facebook粉絲團",
+      "標題": "統一超商 寶盛門市 - 日本超人氣 療癒系貓咪-「貓福珊迪」登場! ... |...",
+      "連結": "https://www.facebook.com/711dingShangMenShi/posts/日本超人氣療癒系貓咪-貓福珊迪登場-這次變裝成海底生物藏在泡澡球中實在是太可愛啦冷冷的天跟貓福珊迪泡在蘇打香味的熱水中根本是冬天的一大享受啊五款變裝貓咪等你來蒐/874350341367555/",
+      "關鍵字": "統一超商 貓福珊迪",
+      "來源": "DDG-broad",
+      "原生/轉載": "原生",
+      "llm_reason": "提及統一超商門市及貓福珊迪"
+    },
+    {
+      "新聞": "711貓福珊迪",
+      "日期": "",
+      "媒體": "網路溫度計",
+      "標題": "貓奴注意！7-11結帳有貓叫、全家熱貓＋毛茸茸主題店 貓之日由來一次看...",
+      "連結": "https://dailyview.tw/popular/detail/33039",
+      "關鍵字": "統一超商 貓福珊迪",
+      "來源": "DDG-broad",
+      "原生/轉載": "原生",
+      "llm_reason": "提及7-11結帳有貓叫及貓之日"
     },
     {
       "新聞": "711貓福珊迪",
@@ -265,8 +386,8 @@
       "連結": "https://n.yam.com/Article/20260201877643",
       "關鍵字": "貓之日 7-ELEVEN聯名「貓福珊迪」",
       "來源": "DDG-title",
-      "原生/轉載": "轉載",
-      "llm_reason": "標題明確提及7-ELEVEN聯名貓福珊迪，日期為2026/02/01，合理推斷為新聞稿露出"
+      "原生/轉載": "原生",
+      "llm_reason": "標題提及7-ELEVEN聯名「貓福珊迪」，日期符合"
     },
     {
       "新聞": "711貓福珊迪",
@@ -277,7 +398,7 @@
       "關鍵字": "貓之日 7-ELEVEN聯名「貓福珊迪」",
       "來源": "DDG-title",
       "原生/轉載": "轉載",
-      "llm_reason": "標題明確提及7-ELEVEN聯名貓福珊迪"
+      "llm_reason": "標題提及7-ELEVEN聯名「貓福珊迪」，日期符合，威傳媒為轉載平台"
     },
     {
       "新聞": "711貓福珊迪",
@@ -288,13 +409,46 @@
       "關鍵字": "貓之日 7-ELEVEN聯名「貓福珊迪」",
       "來源": "DDG-title",
       "原生/轉載": "轉載",
-      "llm_reason": "標題明確提及7-ELEVEN聯名貓福珊迪"
+      "llm_reason": "標題提及7-ELEVEN聯名「貓福珊迪」，紅新聞為轉載平台"
+    },
+    {
+      "新聞": "711貓福珊迪",
+      "日期": "",
+      "媒體": "Styletc 樂時尚",
+      "標題": "花椒也能變奶茶？一沐日「椒麻奶茶」登場、7-11「貓福珊迪」聯名開喝",
+      "連結": "https://www.styletc.com/article/468451",
+      "關鍵字": "7-ELEVEN 貓福珊迪",
+      "來源": "DDG-site",
+      "原生/轉載": "原生",
+      "llm_reason": "提及7-11「貓福珊迪」聯名"
+    },
+    {
+      "新聞": "711貓福珊迪",
+      "日期": "",
+      "媒體": "中華新聞雲/中華日報",
+      "標題": "喵～貓之日 7-ELEVEN聯名「貓福珊迪」甜蜜賣萌！",
+      "連結": "https://www.cdns.com.tw/articles/1355398",
+      "關鍵字": "7-ELEVEN 貓福珊迪",
+      "來源": "DDG-site",
+      "原生/轉載": "原生",
+      "llm_reason": "標題明確提及7-ELEVEN聯名「貓福珊迪」，且日期未知，給予合理懷疑空間"
+    },
+    {
+      "新聞": "711貓福珊迪",
+      "日期": "",
+      "媒體": "卡優新聞網",
+      "標題": "通通買起來！7-11制服購物袋、復古橘大同電鍋、貓福珊迪-炸蝦貓公仔ic...",
+      "連結": "https://www.cardu.com.tw/mpay/detail.php?52565",
+      "關鍵字": "7-ELEVEN 貓福珊迪",
+      "來源": "DDG-site",
+      "原生/轉載": "原生",
+      "llm_reason": "標題提及7-11和貓福珊迪，符合條件"
     }
   ],
   "stats": {
-    "GNews": 19,
-    "DDG-broad": 13,
-    "DDG-site": 3,
-    "DDG-title": 3
+    "GNews": 30,
+    "DDG-broad": 21,
+    "DDG-site": 16,
+    "DDG-title": 4
   }
 }
